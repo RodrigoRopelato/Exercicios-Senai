@@ -16,7 +16,7 @@ namespace Exercicio_sobre_Array
             double[] notas = new double[alunos.Length];
             double mediasala;
 
-            Console.WriteLine("Cadastro de Alunos/Notas" + "\n");
+            Console.WriteLine("Cadastro de Alunos/Notas\n");
 
             //solicita o nome dos alunos e as notas
             for (int i = 0; i < alunos.Length; i++)
